@@ -1,6 +1,6 @@
 {
-  "status": "stable",
-  "energy_level": 72.5,
-  "corruption_risk": "low",
-  "time_until_corruption": "N/A"
+    "status": "stable",
+    "message": "Everything is working fine.",
+    "version": "1.0.0",
+    "lastUpdated": "2025-03-02"
 }
